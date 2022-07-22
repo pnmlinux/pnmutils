@@ -1,2 +1,2 @@
 # pnmutils
-pnm's utulity programs, scripts, libraries.
+pnm's utility programs, scripts, libraries.
